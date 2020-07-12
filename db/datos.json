@@ -1,0 +1,281 @@
+{
+  "proyectos": [
+    {
+      "id": 1,
+      "nombre": "JUGÁ",
+      "subtitulo": "Diseño editorial",
+      "categoria": [
+        "Editorial",
+        "Marca",
+        "Todos"
+      ],
+      "img": "./galeria/7.jpg",
+      "link": "juga",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt malesuada magna, et egestas lorem eleifend euismod. Duis id ante ac ante pellentesque lobortis eget quis lorem. Fusce metus ex, scelerisque porttitor vestibulum ac, vestibulum sed sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec congue, tellus ultricies tempus tristique, metus elit lobortis ligula, ut vehicula augue metus nec nibh. Sed consectetur quam est, ut placerat tortor tempus non. Donec a nibh libero.Fusce eget porttitor lectus. Mauris bibendum sed felis non eleifend. Nulla a neque nec nulla aliquet porttitor et ac nunc. Integer augue dui, malesuada quis nibh ac, auctor interdum quam. Aliquam non eros id nulla eleifend.",
+      "slider": [
+        "/sliderJUGA/slider-01.jpg",
+        "/sliderJUGA/slider-02.jpg",
+        "/sliderJUGA/slider-03.jpg",
+        "/sliderJUGA/slider-04.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "SI TE ACOSA, NO TE CALLES",
+      "subtitulo": "Camapaña gráfica",
+      "categoria": [
+        "Gráfico",
+        "Todos"
+      ],
+      "img": "./galeria/8.jpg",
+      "link": "siteacosa",
+      "descripcion": "El recorte temático elegido para la realización de un aﬁche que funciona como campaña de difusión del acoso sexual es enfocarme en una de las manifestaciones de acoso que plantea la ley N 18.561 para la prevención y sanción de acoso sexual en el ámbito laboral y en la relación docente-estudiante: Requerimientos de favores sexuales que impliquen: Amenazas, implícitas o explícitas, de perjuicios referidos a la situación actual o futura de empleo o de estudio de quien la reciba. La idea es poner en evidencia, castigar el abuso de poder que sufren o pueden llegar a sufrir estudiantes, principalmente mujeres, dentro del ámbito educativo. Enfocándose en la reacción a los mismos, de que hay manera y que debemos defendernos y no callar estas situaciones.",
+      "slider": [
+        "/sliderSITEACOSA/slider-01.jpg",
+        "/sliderSITEACOSA/slider-02.jpg",
+        "/sliderSITEACOSA/slider-03.jpg",
+        "/sliderSITEACOSA/slider-04.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "CLUB DEPORTIVO LA PAZ",
+      "subtitulo": "Sistema de identidad",
+      "categoria": [
+        "Marca",
+        "Gráfico",
+        "Todos"
+      ],
+      "img": "./galeria/3.jpg",
+      "link": "CDLP",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt malesuada magna, et egestas lorem eleifend euismod. Duis id ante ac ante pellentesque lobortis eget quis lorem. Fusce metus ex, scelerisque porttitor vestibulum ac, vestibulum sed sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec congue, tellus ultricies tempus tristique, metus elit lobortis ligula, ut vehicula augue metus nec nibh. Sed consectetur quam est, ut placerat tortor tempus non. Donec a nibh libero.Fusce eget porttitor lectus. Mauris bibendum sed felis non eleifend. Nulla a neque nec nulla aliquet porttitor et ac nunc. Integer augue dui, malesuada quis nibh ac, auctor interdum quam. Aliquam non eros id nulla eleifend tempor. Quisque ultricies, nunc fermentum porttitor accumsan, diam nisi dignissim liber.",
+      "slider": [
+        "/sliderCDLP/slider-01.jpg",
+        "/sliderCDLP/slider-02.jpg",
+        "/sliderCDLP/slider-03.jpg",
+        "/sliderCDLP/slider-04.jpg",
+        "/sliderCDLP/slider-05.jpg",
+        "/sliderCDLP/slider-06.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "INTERSECCIONALIDAD",
+      "subtitulo": "Diseño editorial",
+      "categoria": [
+        "Editorial",
+        "Todos"
+      ],
+      "img": "./galeria/4.jpg",
+      "link": "interseccionalidad",
+      "descripcion": "Partiendo de la investigación de la temática, nos encontramos con una enorme cantidad de información y con cierta complejidad. El primer desafío fue hacer un recorte de esta información, no queríamos que nada quede afuera al entender también que no es un concepto conocido en el común de la población y particularmente por nuestro público objetivo (mujeres jóvenes adultas de 18 a 30 años). Comenzamos entonces explicando el concepto, lo relacionamos con la teoría feminista, damos algunos ejemplos de opresiones que existen y por último nos enfocamos en un recorte temático especiﬁco. El desafío fue adaptar toda la información al formato de infografía sin que se pierda la esencia, el entendimiento del concepto.",
+      "slider": [
+        "/sliderINTERSECCIONALIDAD/slider-01.jpg",
+        "/sliderINTERSECCIONALIDAD/slider-02.jpg",
+        "/sliderINTERSECCIONALIDAD/slider-03.jpg",
+        "/sliderINTERSECCIONALIDAD/slider-04.jpg",
+        "/sliderINTERSECCIONALIDAD/slider-05.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "#TEQUIEROLIBRE",
+      "subtitulo": "Campaña gráfica",
+      "categoria": [
+        "Gráfico",
+        "Todos"
+      ],
+      "img": "./galeria/5.jpg",
+      "link": "tequierolibre",
+      "descripcion": "Tomamos la decisión, en conjunto con el grupo, de aportar a la deconstrucción de estereotipos de género desde los estereotipos, hablando de ellos. En el proceso de investigación analizamos revistas de moda, nos encontramos con artículos que hablan por ejemplo de que tal mujer de clase alta perteneciente al mundo público ha repetido vestidos en diversos eventos. O miles de otros artículos que nos educan en qué tipo de ropa usar para el cuerpo que tenemos (parece ser esencial ocultar el cuerpo cuando este no está dentro de los estándares, las caderas anchas, si somos muy cuadradas de hombros, o si no tenemos cintura que se pronuncie como debería). Como estos, muchos ejemplos similares cubren las notas de estas revistas. De estos lugares comunes en el universo de la moda nos servimos para generar una contrapartida, un mensaje contrario.",
+      "slider": [
+        "/sliderTEQUIEROLIBRE/slider-01.jpg",
+        "/sliderTEQUIEROLIBRE/slider-02.jpg",
+        "/sliderTEQUIEROLIBRE/slider-03.jpg",
+        "/sliderTEQUIEROLIBRE/slider-04.jpg",
+        "/sliderTEQUIEROLIBRE/slider-05.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "CENTRO SOCIAL LA PAZ",
+      "subtitulo": "Sistema de identidad",
+      "categoria": [
+        "Marca",
+        "Todos"
+      ],
+      "img": "./galeria/6.jpg",
+      "link": "CSLP",
+      "descripcion": "El Centro Social La Paz es un espacio donde niñas/os y jóvenes de diversas edades encuentran un lugar donde realizar actividades deportivas y sociales en un entorno de contención, familiar, cercano, seguro y de conﬁanza con una amplia variedad de actividades. El atributo de valor o diferencial del club es el trato personalizado, cercano que tienen con sus socios, al ser niños y jóvenes que pasan mucho tiempo allí, además de hacer deporte crecen y aprenden valores. Se le da un especial valor al no competir, al ir a jugar, a disfrutar el deporte. Desde esta conceptualización desarrollé un sistema de identidad del centro desde el signo identificador, escudo, camiseta deportiva, papelería institucional, formulario de inscripción, programa de actividades, redes sociales, afiches, objetos institucionales, y demás respuestas a las necesidades que encontramos.",
+      "slider": [
+        "/sliderCSLP/slider-01.jpg",
+        "/sliderCSLP/slider-02.jpg",
+        "/sliderCSLP/slider-04.jpg",
+        "/sliderCSLP/slider-05.jpg",
+        "/sliderCSLP/slider-06.jpg",
+        "/sliderCSLP/slider-07.jpg",
+        "/sliderCSLP/slider-08.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "CLUB DEPORTIVO URUNDAY",
+      "subtitulo": "Diseño de página web",
+      "categoria": [
+        "Web",
+        "Todos"
+      ],
+      "img": "./galeria/1.jpg",
+      "link": "CDU",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt malesuada magna, et egestas lorem eleifend euismod. Duis id ante ac ante pellentesque lobortis eget quis lorem. Fusce metus ex, scelerisque porttitor vestibulum ac, vestibulum sed sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec congue, tellus ultricies tempus tristique, metus elit lobortis ligula, ut vehicula augue metus nec nibh. Sed consectetur quam est, ut placerat tortor tempus non. Donec a nibh libero.Fusce eget porttitor lectus. Mauris bibendum sed felis non eleifend. Nulla a neque nec nulla aliquet porttitor et ac nunc. Integer augue dui, malesuada quis nibh ac, auctor interdum quam. Aliquam non eros id nulla eleifend tempor. Quisque ultricies, nunc fermentum porttitor accumsan, diam nisi dignissim libero, quis aliquet.",
+      "slider": [
+        "/sliderCDU/slider-01.jpg",
+        "/sliderCDU/slider-02.jpg",
+        "/sliderCDU/slider-03.jpg",
+        "/sliderCDU/slider-04.jpg",
+        "/sliderCDU/slider-05.jpg",
+        "/sliderCDU/slider-06.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "LINEA 14",
+      "subtitulo": "Puesta tipográfica",
+      "categoria": [
+        "Gráfico",
+        "Todos"
+      ],
+      "img": "./galeria/2.jpg",
+      "link": "linea14",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt malesuada magna, et egestas lorem eleifend euismod. Duis id ante ac ante pellentesque lobortis eget quis lorem. Fusce metus ex, scelerisque porttitor vestibulum ac, vestibulum sed sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec congue, tellus ultricies tempus tristique, metus elit lobortis ligula, ut vehicula augue metus nec nibh. Sed consectetur quam est, ut placerat tortor tempus non. Donec a nibh libero.Fusce eget porttitor lectus. Mauris bibendum sed felis non eleifend. Nulla a neque nec nulla aliquet porttitor et ac nunc. Integer augue dui, malesuada quis nibh ac, auctor interdum quam. Aliquam non eros id nulla eleifend tempor. Quisque ultricies, nunc fermentum porttitor accumsan, diam nisi dignissim libero, quis aliquet nulla magna.",
+      "slider": [
+        "/sliderLINEA14/slider-01.jpg",
+        "/sliderLINEA14/slider-02.jpg",
+        "/sliderLINEA14/slider-03.jpg",
+        "/sliderLINEA14/slider-04.jpg",
+        "/sliderLINEA14/slider-05.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "OFICINA MIRABALLES",
+      "subtitulo": "Sistema de identidad",
+      "categoria": [
+        "Marca",
+        "Todos"
+      ],
+      "img": "./galeria/9.jpg",
+      "link": "miraballes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt malesuada magna, et egestas lorem eleifend euismod. Duis id ante ac ante pellentesque lobortis eget quis lorem. Fusce metus ex, scelerisque porttitor vestibulum ac, vestibulum sed sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec congue, tellus ultricies tempus tristique, metus elit lobortis ligula, ut vehicula augue metus nec nibh. Sed consectetur quam est, ut placerat tortor tempus non. Donec a nibh libero.Fusce eget porttitor lectus. Mauris bibendum sed felis non eleifend. Nulla a neque nec nulla aliquet porttitor et ac nunc. Integer augue dui, malesuada quis nibh ac, auctor interdum quam. Aliquam non eros id nulla eleifend tempor. Quisque ultricies, nunc fermentum porttitor accumsan, diam nisi dignissim libero, quis alique.",
+      "slider": [
+        "/sliderMIRABALLES/slider-01.jpg",
+        "/sliderMIRABALLES/slider-02.jpg",
+        "/sliderMIRABALLES/slider-03.jpg",
+        "/sliderMIRABALLES/slider-04.jpg",
+        "/sliderMIRABALLES/slider-05.jpg",
+        "/sliderMIRABALLES/slider-06.jpg"
+      ]
+    }
+  ],
+  "contacto": [],
+  "eventosRombu": [
+    {
+      "id": "0",
+      "title": "Conceptualización",
+      "inicio": "2020-07-01T03:00:00.000Z",
+      "fin": "2020-07-20T03:00:00.000Z",
+      "descripcion": "Nos encargaremos de la parte de conceptualización de la marca gráfica, los tributos y valores que se buscan transmitir, para quien y de que manera se comunicará la marca. Tiempo estimado: 20 días"
+    },
+    {
+      "id": "1",
+      "title": "Reunión 01",
+      "inicio": "2020-07-22T03:00:00.000Z",
+      "fin": "2020-07-22T03:00:00.000Z",
+      "descripcion": "La primera reunión estará destinada a una puesta en común del proceso de conceptualización realizado y el comienzo de la parte gráfica"
+    },
+    {
+      "id": "2",
+      "title": "Marca Gráfica",
+      "inicio": "2020-07-23T03:00:00.000Z",
+      "fin": "2020-08-10T03:00:00.000Z",
+      "descripcion": "Nos encargaremos del desarrollo de la marca gráfica: Identidicador gráfico y manual de marca."
+    },
+    {
+      "id": "3",
+      "title": "Campaña expectativa",
+      "inicio": "2020-08-15T03:00:00.000Z",
+      "fin": "2020-08-30T03:00:00.000Z",
+      "descripcion": "La campaña expectativa constará de 15 días de publicidad en diversos medios gráficos así como también en redes sociales"
+    },
+    {
+      "id": "4",
+      "title": "Lanzamiento marca",
+      "inicio": "2020-09-01T03:00:00.000Z",
+      "fin": "2020-09-05T03:00:00.000Z",
+      "descripcion": "Lanzamos la marca en redes sociales"
+    },
+    {
+      "id": "5",
+      "title": "Papelería institucional",
+      "inicio": "2020-08-01T03:00:00.000Z",
+      "fin": "2020-08-10T03:00:00.000Z",
+      "descripcion": "Desarrollo de papelería institucional: tarjetas personales, hojas membretadas, cartelería para oficina/local comercial y sobres"
+    },
+    {
+      "id": "6",
+      "title": "Página web",
+      "inicio": "2020-09-01T03:00:00.000Z",
+      "fin": "2020-10-15T03:00:00.000Z",
+      "descripcion": "Proceso de desarrollo de página web: deberá contener tienda, registro de usuarios y formulario de contacto"
+    },
+    {
+      "id": "7",
+      "title": "Reunión 2",
+      "inicio": "2020-09-05T03:00:00.000Z",
+      "fin": "2020-09-05T03:00:00.000Z"
+    }
+  ],
+  "comentariosRombu": [
+    [],
+    [],
+    []
+  ],
+  "tareasRombu": [
+    {
+      "etapa": "Conceptualización",
+      "tareas": [
+        {
+          "nombre": "Investigación",
+          "progreso": "Finalizado"
+        },
+        {
+          "nombre": "Brief",
+          "progreso": "Finalizado"
+        },
+        {
+          "nombre": "Estudio de competencia",
+          "progreso": "En Proceso"
+        },
+        {
+          "nombre": "Valores y diferencial de marca",
+          "progreso": "En Proceso"
+        },
+        {
+          "nombre": "Forma de comunicación",
+          "progreso": "No empezado"
+        }
+      ],
+      "progreso": "Trabajando"
+    },
+    {
+      "etapa": "Marca gráfica",
+      "tareas": [
+        "Moodboard",
+        "Paleta de colores",
+        "Tipografía",
+        "Signo identificador"
+      ],
+      "progreso": "No empezado"
+    }
+  ]
+}
